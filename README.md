@@ -1,5 +1,18 @@
 # Deep Learning Image Classification 
 
+*COMPANY*: CODTECH IT SOLUTIONS
+
+*NAME*: MATHIYAZHAGAN M 
+
+*INTERN ID*: CTIS4317
+
+*DOMAIN*: DATA SCIENCE
+
+*DURATION*: 4 WEEEKS
+
+*MENTOR*: NEELA SANTOSH
+
+
 ## 📌 Project Description
 This project implements a Convolutional Neural Network (CNN) using TensorFlow to classify images from the CIFAR-10 dataset into 10 categories such as airplane, automobile, bird, cat, deer, dog, frog, horse, ship, and truck.
 
