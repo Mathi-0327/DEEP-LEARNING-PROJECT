@@ -56,8 +56,4 @@ The final trained model is saved and can be used to make predictions on new data
 
 ---
 
-## ▶️ How to Run
-Install dependencies:
 
-```bash
-pip install -r requirements.txt
